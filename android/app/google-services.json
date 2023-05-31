@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053582077073",
+    "firebase_url": "https://mcchrisrestaurant-default-rtdb.firebaseio.com",
+    "project_id": "mcchrisrestaurant",
+    "storage_bucket": "mcchrisrestaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053582077073:android:c61a4445c0a18caaba2330",
+        "android_client_info": {
+          "package_name": "com.os.mcchrisclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053582077073-31qenvjl4revgsnkhc3d3claguq5faab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw1V5o47UIBqVGRpgeRLJLXukqTBk_jDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053582077073-31qenvjl4revgsnkhc3d3claguq5faab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
